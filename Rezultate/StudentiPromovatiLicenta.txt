@@ -1,0 +1,3 @@
+Studenti promovati la studiile de licenta:
+Studentul Ioan Vasile a obtinut media 7, totalul punctelor acumulate fiind 47, din asta rezulta ca statusul studentului este: Promovat Licenta.
+Studentul Matei David a obtinut media 6, totalul punctelor acumulate fiind 37, din asta rezulta ca statusul studentului este: Promovat Licenta.

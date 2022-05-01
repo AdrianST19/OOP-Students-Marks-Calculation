@@ -1,0 +1,2 @@
+Studenti nepromovati la studiile de licenta:
+Studentul Mateescu Robert a obtinut media 3, totalul punctelor acumulate fiind 23, din asta rezulta ca statusul studentului este: Nepromovat Licenta.

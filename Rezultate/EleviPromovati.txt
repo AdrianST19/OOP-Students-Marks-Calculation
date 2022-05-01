@@ -1,0 +1,6 @@
+Elevi care au promovat:
+Elevul Fanuta Adrian a obtinut media 8.5, totalul punctelor acumulate fiind 51, din asta rezulta ca statusul studentului este: Promovat.
+Elevul Stefanescu Andi a obtinut media 8.5, totalul punctelor acumulate fiind 51, din asta rezulta ca statusul studentului este: Promovat.
+Elevul Ioana Florina a obtinut media 8.17, totalul punctelor acumulate fiind 49, din asta rezulta ca statusul studentului este: Promovat.
+Elevul Ivan Horatiu a obtinut media 6.67, totalul punctelor acumulate fiind 40, din asta rezulta ca statusul studentului este: Promovat.
+Elevul Ionescu Alex a obtinut media 8, totalul punctelor acumulate fiind 65, din asta rezulta ca statusul studentului este: Promovat.
