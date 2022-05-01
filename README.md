@@ -4,7 +4,7 @@
 
 Interfata aplicatiei:
 
-![Poza Interfata Aplicatie](https://user-images.githubusercontent.com/92085719/166147547-c49c1bde-2969-423a-a6b9-a177266c4e97.png)
+![image](https://user-images.githubusercontent.com/92085719/166147666-7f3def66-a4e4-4ef6-afba-82c640fd1537.png)
 
 Aplicatia in momentul in care este testata:
 
